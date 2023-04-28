@@ -67,9 +67,7 @@ Hello-pro Project is mandatory to every student at Microverse, and it is one of 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,9 +109,9 @@ You can deploy this project using: Google Chrome
 
 ## 👥 Author <a name="authors"></a>
 Trevor:
-- GitHub: @valt19
-- Twitter: @OdekeTrevor
-- LinkedIn: @TrevorOdeke
+- GitHub: https://github.com/valt19
+- Twitter: https://twitter.com/OdekeTrevor
+- LinkedIn: https://www.linkedin.com/in/trevor-odeke-56876a254/
 
 
 
